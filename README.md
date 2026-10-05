@@ -1,70 +1,10 @@
-# 🏎️ Formula 1 Performance Analysis (1950–2023)
+# Formula One exploratory data analysis
 
-This project analyzes historical Formula 1 data using `pandas`, `NumPy`, and `matplotlib`. It explores trends in driver wins, constructor dominance, track performance, and race patterns using real-world multi-source data.
+Learning/coursework project. Attribution is retained where present. Runtime verification was not performed for publication.
 
----
 
-## 📂 Dataset Source
+## Publication copy
 
-**📌 Kaggle F1 Dataset:**  
-[Formula 1 World Championship (1950–2023)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+Published 5 October 2026 at the owner's request. This is a sanitized source snapshot. Original local Git history and original files remain unchanged. Pictures, videos, binary archives, private/runtime data, dependency folders and credentials are excluded. Notebook outputs, attachments and incidental metadata are removed. Documents are text-only extracts. Media references and redacted configuration may need replacements before running. No claim of successful rerun, production readiness, sole authorship or independent validation is implied.
 
-Includes:
-- `results.csv`
-- `races.csv`
-- `drivers.csv`
-- `constructors.csv`
-- `circuits.csv`
-- `lap_times.csv`
-
----
-
-## 🧠 Project Highlights
-
-### 🧱 Constructor Analysis
-- Most constructor wins per season
-- Average points per team
-- Podium rate calculation
-- Total wins bar chart
-
-### 🧍 Driver Analysis
-- Most wins overall and by decade
-- Fastest laps per track
-- Highest points per race
-- Top 10 drivers bar chart
-
-### 🛣️ Track Analysis
-- Most frequently used tracks
-- Tracks with highest overtakes
-- Races with most DNFs
-- Circuits with fastest average lap times
-
----
-
-## 📊 Visualizations
-- Bar plots for top constructors and drivers
-- Line and scatter plots for track performance
-- Grid vs final position analysis
-
----
-
-## 🧰 Tools Used
-- Python 3
-- pandas
-- NumPy
-- matplotlib
-
----
-
-## 🚀 How to Run
-
-1. Download the dataset from Kaggle and extract CSV files
-2. Run `F1_cleaned.py` in Jupyter or any Python IDE
-3. Ensure all CSV files are in the same directory
-
----
-
-## 📌 Author
-
-This project was created as part of a self-learning path focused on data analysis using real-world datasets.
 

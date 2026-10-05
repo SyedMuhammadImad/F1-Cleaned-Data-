@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-05",
+  "title": "Formula One exploratory data analysis",
+  "runtime_verified_for_publication": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "F1.py",
+      "sha256": "b9fd8fc0cd696da97717038940200ccb0f231a15f12c8c5ce12d588007ee3e8c",
+      "bytes": 7729
+    },
+    {
+      "path": "README.md",
+      "sha256": "9196ca455464980d2a3bc751073df2db1188ef43de915585a94f2cd2874cf255",
+      "bytes": 745
+    },
+    {
+      "path": "additional_sources/F1_cleaned/F1_cleaned.py",
+      "sha256": "b9fd8fc0cd696da97717038940200ccb0f231a15f12c8c5ce12d588007ee3e8c",
+      "bytes": 7729
+    }
+  ]
+}
