@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-07",
   "title": "Formula One exploratory data analysis",
-  "runtime_verified_for_publication": false,
+  "completion_gate_passed": true,
   "files": [
     {
       "path": ".gitignore",
@@ -9,19 +9,39 @@
       "bytes": 421
     },
     {
+      "path": "analysis.json",
+      "sha256": "e42aeaa8a7a94538b450bb06d621e9bb31dde73ee70b3ffb803ff69e63093217",
+      "bytes": 405174
+    },
+    {
+      "path": "analyze.py",
+      "sha256": "1f1cc5a541fa714f083ef6fb12620fd45e1077e05e260e0619e05fab883bbcdf",
+      "bytes": 5188
+    },
+    {
       "path": "F1.py",
-      "sha256": "b9fd8fc0cd696da97717038940200ccb0f231a15f12c8c5ce12d588007ee3e8c",
-      "bytes": 7729
+      "sha256": "cd38bcb697dcc50260f987bb82f3fc39c0aa954153f982d6347b98c8f363f77f",
+      "bytes": 300
     },
     {
       "path": "README.md",
-      "sha256": "9196ca455464980d2a3bc751073df2db1188ef43de915585a94f2cd2874cf255",
-      "bytes": 745
+      "sha256": "2667c27e82c13279c619ef7d088fd9eff832c1073402318431b35dd9e1c4289b",
+      "bytes": 647
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "c51a48536fb02bf437d15e777e60abc41ffebf550d51624187e013ecc06ef85e",
+      "bytes": 29
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "a6fbb07c778bb967e7e9850017c3c2cc2a4a5472d90cb6161a0c8602d013b088",
+      "bytes": 517
     },
     {
       "path": "additional_sources/F1_cleaned/F1_cleaned.py",
-      "sha256": "b9fd8fc0cd696da97717038940200ccb0f231a15f12c8c5ce12d588007ee3e8c",
-      "bytes": 7729
+      "sha256": "cd38bcb697dcc50260f987bb82f3fc39c0aa954153f982d6347b98c8f363f77f",
+      "bytes": 300
     }
   ]
 }
